@@ -6,7 +6,7 @@
 ## Introduction
 While PCA is the most popular algorithm used for dimension reduction, it has a disadvantage: **it is for unsupervised learning**. Take a look at this picture:
 
-![LDA_1](assets/lda_1.png)
+![LDA_1](lda_1.png)
 
 *Source: https://machinelearningcoban.com/2017/06/30/lda/*
 
